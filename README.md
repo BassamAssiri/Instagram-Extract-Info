@@ -2,7 +2,7 @@
 This Script Is Created by https://twitter.com/BassamAssiri The request Is by https://twitter.com/Dmaral3noz 
 
 How To Use 
-
+#Install
 You Will Need To Have Python and this two librares
 
 requests
@@ -13,7 +13,7 @@ and
 urllib
 
 pip install urllib
-
+#How To Use
 python Extract.py
 
 Enter Wanted User: Test
