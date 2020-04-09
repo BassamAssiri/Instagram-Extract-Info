@@ -2,7 +2,7 @@
 
 This Script Is Created by https://twitter.com/BassamAssiri The request Is by https://twitter.com/Dmaral3noz 
 
-#Install
+# Install
 
 You Will Need To Have Python and this two librares
 
@@ -11,11 +11,12 @@ requests
 pip install requests
 
 and 
+
 urllib
 
 pip install urllib
 
-#How To Use
+# How To Use
 
 python Extract.py
 
